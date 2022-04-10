@@ -1,0 +1,37 @@
+h1 {
+    color: yellowgreen;
+    background: pink;
+    font-size: 30,20,20;
+}
+#heading{
+    background: yellowgreen ;
+    height :80px;
+    width: 60%;
+    color:black;
+    font-size: 30px;
+ text-align: center  ;
+}
+.heading{
+background: orange;
+color: black ;
+}
+
+#heading-1 {
+    background: rgb(223, 127, 255);
+    color: black;
+    font-size: auto;
+}
+#heading-2{
+    background: wheat;
+    font-size: auto;
+}
+#heading-3 {
+    background: rgb(255, 205, 213);
+
+    font-size: auto;
+}
+#heading-4{
+    background: palegreen;
+   
+    font-size: auto;
+}
